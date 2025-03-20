@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manodya-edirisinghe&label=Profile%20views&color=0e75b6&style=flat" alt="manodya-edirisinghe" /> </p>
 
-- 🔭 I’m currently working on **Eye care opticals online system**
+- 🔭 I’m currently working on **Garment Factory Management System
+- **
 
 - 🌱 I’m currently learning **MERN**
 
